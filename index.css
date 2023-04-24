@@ -35,3 +35,7 @@ button:hover {
     background-color: #359552;
     size: 80px;
 }
+
+ul {
+    list-style: none;
+}
