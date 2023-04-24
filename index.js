@@ -1,2 +1,2 @@
 const inputBtn = document.getElementById("input-btn")
-const inputEl = document.getElementById("split-el")
+const splitEl = document.getElementById("split-el")
